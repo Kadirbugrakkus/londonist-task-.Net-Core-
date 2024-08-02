@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\CrmApp\\wwwroot\\fonts\\Gilroy-Bold.woff",
+      "PackagePath": "staticwebassets\\fonts\\Gilroy-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\CrmApp\\wwwroot\\fonts\\Gilroy-Heavy.woff",
+      "PackagePath": "staticwebassets\\fonts\\Gilroy-Heavy.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\CrmApp\\wwwroot\\fonts\\Gilroy-Light.woff",
+      "PackagePath": "staticwebassets\\fonts\\Gilroy-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\CrmApp\\wwwroot\\fonts\\Gilroy-Medium.woff",
+      "PackagePath": "staticwebassets\\fonts\\Gilroy-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\CrmApp\\wwwroot\\fonts\\Gilroy-Regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\Gilroy-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\PC\\Desktop\\CrmApp\\wwwroot\\images\\hero-background.png",
+      "PackagePath": "staticwebassets\\images\\hero-background.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CrmApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CrmApp.props",
+      "PackagePath": "build\\CrmApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CrmApp.props",
+      "PackagePath": "buildMultiTargeting\\CrmApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CrmApp.props",
+      "PackagePath": "buildTransitive\\CrmApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
